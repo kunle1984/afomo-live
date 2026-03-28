@@ -1,0 +1,1 @@
+import{j as e,k as s,l as t}from"./index-DEksQPI-.js";import{L as o}from"./Layout-BkHH6lkA.js";import{A as r}from"./AdminHome-BOtuCAd-.js";function i(){return e.jsx(s,{children:e.jsx(t,{path:"/",element:e.jsx(o,{}),children:e.jsx(t,{index:!0,element:e.jsx(r,{})})})})}export{i as default};
