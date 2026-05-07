@@ -1,0 +1,1 @@
+import{j as e,x as s,z as t}from"./index-Cqg7yxjD.js";import{L as o}from"./Layout-CJ07YVV4.js";import{A as r}from"./AdminHome-BgZDjJQt.js";function i(){return e.jsx(s,{children:e.jsx(t,{path:"/",element:e.jsx(o,{}),children:e.jsx(t,{index:!0,element:e.jsx(r,{})})})})}export{i as default};
